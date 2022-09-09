@@ -1,6 +1,7 @@
 #+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 #|r|e|d|a|n|d|g|r|e|e|n|.|c|o|.|u|k|
 #+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# this is the second test, that I do
 import os
 import datetime
 import sys
